@@ -4,7 +4,7 @@
   "description": "Listening to music together server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Shrug: no test specified\""
   },
   "author": "Michał Sidor <michcioperz@gmail.com>",
   "license": "WTFPL"
